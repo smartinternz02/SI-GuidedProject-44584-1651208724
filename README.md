@@ -6,3 +6,7 @@ And as for NewsAtGlance page the API is giving empty results hence NewsAtGlance 
 
 heroku link:
 https://news-appv2.herokuapp.com/
+
+
+video demo link:
+https://youtu.be/Jgzqwzl8yhs
